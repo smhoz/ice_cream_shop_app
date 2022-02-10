@@ -1,16 +1,9 @@
-# ice_cream_shop_app
+# Flutter Ice Cream Shop App UI
 
-A new Flutter project.
+Hi, i tried to https://www.uplabs.com/posts/ice-cream-shop-mobile-app-867709e9-2a2c-4634-ab88-e513fb0ef21d with flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+I hope you like it :)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ice_cream_shop_app_mock_up](https://user-images.githubusercontent.com/78686891/153384129-b8c9c56e-56d2-41ae-a5c9-6c63a2738ee2.png)
