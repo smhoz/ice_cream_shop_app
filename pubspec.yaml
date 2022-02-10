@@ -1,0 +1,58 @@
+name: ice_cream_shop_app
+description: Ice Cream Shop App.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0-268.18.beta <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+    
+  #UI Utility
+  cupertino_icons: ^1.0.2
+
+  #Core Utility
+  json_serializable: ^6.1.4
+  json_annotation: ^4.4.0
+
+  #State Management
+  provider: ^6.0.2
+
+  #Firebase
+  firebase_core: ^1.12.0
+  cloud_firestore: ^3.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  build_runner:
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/avatars/
+
+  fonts:
+    - family:  IceCreamShopApp
+      fonts:
+        - asset: assets/fonts/IceCreamShopApp.ttf
+
+    - family:  Montserrat
+      fonts:
+        - asset: assets/fonts/montserrat/Montserrat-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/montserrat/Montserrat-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/montserrat/Montserrat-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/montserrat/Montserrat-Light.ttf
+          weight: 300
+
